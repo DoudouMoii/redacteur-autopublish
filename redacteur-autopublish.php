@@ -1,11 +1,10 @@
 <?php
 /**
  * Plugin Name:       Redacteur.site Autopublish
- * Plugin URI:        http://www.redacteur.site/wordpress/
  * Description:       Autopublish from http://www.redacteur.site/
  * Version:           0.6
- * Author:            Julien Gadanho
- * Author URI:        https://www.securemydata.fr/
+ * Author:            Etienne Mommalier
+ * Author URI:        https://etienne-mommalier.fr/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       redacteur-autopublish
